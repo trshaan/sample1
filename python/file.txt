@@ -1,0 +1,5 @@
+veda,done
+meher,pending
+trish,pending
+kauti,done
+shauri,done
